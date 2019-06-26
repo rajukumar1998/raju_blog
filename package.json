@@ -1,0 +1,27 @@
+{
+  "name": "looplab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "author": "VeerRavi",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "fontawesome": "^4.7.2",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.1.2",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.2.1",
+    "node-sass": "^4.9.0"
+  },
+  "keywords": [],
+  "description": ""
+}
